@@ -1,0 +1,9 @@
+{
+  "url": "https://api.weatherapi.com/v1/current.json",
+  "cities": ["London", "Paris", "Tokio", "Bucharest"],
+  "max_temp": 20,
+  "max_pressure": 1000,
+  "max_wind_velocity": 10,
+  "sleep_time": 30,
+  "notification_system": ["plyer", "whatsapp"]
+}
